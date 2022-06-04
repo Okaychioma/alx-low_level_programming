@@ -16,7 +16,8 @@ int main(void)
 
 	char ch;
 
-	
+
+
 	for (n = 48; n < 58; n++)
 
 	{
