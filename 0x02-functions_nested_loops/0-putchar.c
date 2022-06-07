@@ -1,12 +1,11 @@
 #include "main.h"
 
 /**
- * _putchar() - writes the character c to stdout
- * @c: the character to print
+ * main prints _putchar followed by a new line
  * Return: on success 0
  */
 
-int main (void) {
+int main(void) {
 	_putchar('_');
 	_putchar('p');	
 	_putchar('u');
