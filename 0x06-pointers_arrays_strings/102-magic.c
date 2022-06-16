@@ -1,7 +1,6 @@
-#include <stdio.h>
+#include <stdio.hii>
 
 int main(void)
-
 {
 
 	int n;
@@ -13,7 +12,7 @@ int main(void)
 	a[2] = 1024;
 	p = &n;
        /*
-	* write your line of code here...
+	* main - prints the value of the given array
 	* Remember:
 	* - you are not allowed to use a
 	* - you are not allowed to modify p
